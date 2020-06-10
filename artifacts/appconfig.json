@@ -1,0 +1,10 @@
+{
+  "name": "xiaoqing-extension-6-10-long-name-long-name-long-name-long-name-long-name-long-name",
+  "provider": "sap fsm panda team sap fsm panda team sap fsm panda team sap fsm panda team sap fsm panda team sap fsm panda team sap fsm panda team xiaoqing",
+  "description": "Considering all of these possibilities above, the most promising way is → Helm chart as the input of extension installer, it provides enough flexibility and cover all known requirements. Meanwhile, Helm is the default package management tool of Kyma, so it is not necessary to introduce Kustomize as another comparable tool. Considering all of these possibilities above, the most promising way is → Helm chart as the input of extension installer, it provides enough flexibility and cover all known requirements. Meanwhile, Helm is the default package management tool of Kyma, so it is not necessary to introduce Kustomize as another comparable tool. xiaoqing",
+  "version": "1.0.0",
+  "icon": "http://t8.baidu.com/it/u=2857883419,1187496708&fm=79&app=86&f=JPEG?w=1280&h=763",
+  "dockerRegistry": "docker.io/xiaoqing2chen",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
